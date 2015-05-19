@@ -1,0 +1,21 @@
+[
+    "index.md",
+    "global-village.md",
+    "connectivity-loss.md",
+    "offline-first.md",
+    "service-worker.md",
+    "mobile-vs-web.md",
+    "service-worker-overview.md",
+    "browser-support.md",
+    "api.md",
+    "lifecycle.md",
+    "lifecycle-registration.md",
+    "lifecycle-installation.md",
+    "lifecycle-activation.md",
+    "lifecycle-update.md",
+    "service-worker-vs-appcache.md",
+    "some-use-cases.md",
+    "what-is-next.md",
+    "demo.md",
+    "thank-you.md"
+]
