@@ -1,3 +1,3 @@
 ##  Lifecycle - activation
 
-Functional service
+Functional service (serve requests, schedule tasks, ...)

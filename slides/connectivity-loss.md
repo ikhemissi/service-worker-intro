@@ -2,6 +2,6 @@
 
 * Train
 * Subway
-* Car
+* Hiking
 * When things matter ? Toilet ?
 * ...
